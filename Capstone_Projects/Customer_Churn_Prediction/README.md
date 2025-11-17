@@ -179,8 +179,6 @@ If you want to show how your app looks, you can upload screenshots to GitHub and
 ![Prediction](Output_5.png)
 
 
-```
-
 You can also drag and drop images directly into the GitHub README editor.
 
 ---
@@ -192,6 +190,7 @@ You can also drag and drop images directly into the GitHub README editor.
 📧 *[lahari11kummara@gmail.com](mailto:lahari11kummara@gmail.com)*
 
 ---
+
 
 
 
