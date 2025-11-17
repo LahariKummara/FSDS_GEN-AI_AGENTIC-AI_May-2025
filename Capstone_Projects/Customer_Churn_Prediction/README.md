@@ -66,10 +66,17 @@ The app loads the saved `.pkl` model and gives results in real time.
 ```
 Customer_Churn_Project/
 │
-├── Customer_Churn_Project.ipynb   # Model building and analysis
-├── app.py                         # Streamlit app for predictions
-├── final_gb_classifier.pkl        # Saved machine learning model
-└── README.md                      # Project explanation
+├── Customer_Churn_Project.ipynb  # Model building and analysis
+├── app.py                        # Streamlit app for predictions
+├── final_gb_classifier.pkl       # Saved machine learning model
+├── Telco-Customer-Churn.csv      # Telecom Dataset
+├── Output_1.png                  
+├── Output_2.png
+├── Output_3.png
+├── Output_4.png
+├── Output_5.png
+└── README.md                     # Project Explanation
+
 ```
 
 ---
@@ -149,6 +156,30 @@ Very easy and clear for any user.
 
 ---
 
+🖼 Screenshots
+
+Here are a few screenshots to give you a clear idea of how the Streamlit app looks and works.
+
+📷 Streamlit Homepage
+
+This is the main interface where users can enter customer details to get a churn prediction.
+
+📷 Input Fields
+
+This section shows all the input options like gender, contract type, internet service, and more.
+
+📷 More Inputs
+
+Additional customer details such as security options, streaming preferences, and billing settings.
+
+📷 Sample Prediction
+
+After clicking the Predict button, the model shows whether the customer is likely to stay or churn.
+
+📷 Final Output
+
+Clear prediction displayed for the user.
+
 # 🖼 Adding Screenshots (Optional)
 
 If you want to show how your app looks, you can upload screenshots to GitHub and add:
@@ -183,4 +214,5 @@ You can also drag and drop images directly into the GitHub README editor.
 📧 *[lahari11kummara@gmail.com](mailto:lahari11kummara@gmail.com)*
 
 ---
+
 
