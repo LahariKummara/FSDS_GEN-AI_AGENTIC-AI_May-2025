@@ -156,17 +156,21 @@ If you want to show how your app looks, you can upload screenshots to GitHub and
 ```md
 # 📷 Streamlit UI
 
-![App Screenshot](Output_1.png)
-![App Screenshot](Output_2.png)
-![App Screenshot](Output_3.png)
+<img width="1920" height="1080" alt="Output_1" src="https://github.com/user-attachments/assets/8ca45342-1b1f-44c0-8c71-a2fcc65728b1" />
+
+<img width="1920" height="1080" alt="Output_2" src="https://github.com/user-attachments/assets/6df01525-4bde-4a23-9f85-7c2b7d654d5b" />
+
+<img width="1920" height="1080" alt="Output_3" src="https://github.com/user-attachments/assets/c42229d4-27fd-4e90-a56f-2ff71804ef4c" />
 
 # 📷 Input Form
 
-![Input](Output_4.png)
+
+<img width="1920" height="1080" alt="Output_4" src="https://github.com/user-attachments/assets/f42c1bde-394c-4541-8fbf-7944d739e944" />
 
 # 📷 Final Prediction
 
-![Prediction](Output_5.png)
+
+<img width="1920" height="1080" alt="Output_5" src="https://github.com/user-attachments/assets/e4aace48-0244-41fd-a927-9f2ac853faf8" />
 
 
 
@@ -183,4 +187,5 @@ You can also drag and drop images directly into the GitHub README editor.
 📧 *[lahari11kummara@gmail.com](mailto:lahari11kummara@gmail.com)*
 
 ---
+
 
