@@ -130,16 +130,9 @@ Customer_Churn_Project/
 
 ```
 
-# 🔮 Future Improvements
-
-
-Deployment: Host the app on Streamlit Cloud so anyone can access it via a URL.
-
-Model Interpretation: Add SHAP plots to the app to show why the model made a specific prediction (e.g., "Churn predicted because Monthly Charges > $100").
-
-Live Data Connection: Connect the app to a live database instead of manual input.
 
 # 📬 Contact
 
 Kummara Lahari
+
 📧 lahari11kummara@gmail.com
