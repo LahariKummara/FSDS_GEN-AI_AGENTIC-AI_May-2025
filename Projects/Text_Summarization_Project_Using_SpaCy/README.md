@@ -22,17 +22,17 @@ It’s lightweight, fast, and perfect for learning NLP basics.
 You can add your app screenshots here after running the project.
 Use this format in your README once you upload images to GitHub:
 
-```
-Home Page
+
+### Home Page
 ![Home](images/App.png)
 ![Home](images/App_1.png)
 
-Summary Output
+### Summary Output
 ![Summary](images/Output_1.png)
 ![Summary](images/Output_2.png)
 ![Summary](images/Output_3.png)
 
-```
+
 
 
 Just create an images/ folder in your repo and place the screenshots there.
@@ -119,4 +119,5 @@ If you’re also learning NLP, this project is a great starting point.
 # 📬 Contact
 
 Kummara Lahari
+
 📧 lahari11kummara@gmail.com
